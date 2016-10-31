@@ -9,8 +9,6 @@ Bipio на github: (https://github.com/bipio-server/bipio)
 # Локальный запуск
 
 ```
-git clone http://192.168.0.107:3000/Lara/bipio-front.git
-cd bipio-ui
 npm i
 npm start
 ```
